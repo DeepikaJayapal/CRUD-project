@@ -1,0 +1,17 @@
+.outer{
+    border:2px solid black;
+}
+.header{
+    background-color: aquamarine;
+    height: 30%;
+}
+ul{
+    display:flex;
+    flex-direction : row;
+}
+li{
+    text-decoration: none;
+}
+.quote{
+    text-shadow: 2px 2px 5px blue;
+}
